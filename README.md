@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Programming Hero Project.**
 
-- 🌱 I’m currently learning **javascript, c++, python**
+- 🌱 I’m currently learning **javascript, C++, python**
 
 - 💬 Ask me about **react**
 
